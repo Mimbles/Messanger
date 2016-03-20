@@ -7,3 +7,71 @@ e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug
 e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.exe
 e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.xml
 e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.pdb
+e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+e:\libraries\documents\visual studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\Messenger\Messenger\bin\Debug\Messenger.exe.config
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.exe
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.xml
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.pdb
+H:\Visual Studio 2013\Projects\Messenger\Messenger\bin\Debug\Messenger.exe
+H:\Visual Studio 2013\Projects\Messenger\Messenger\bin\Debug\Messenger.pdb
+H:\Visual Studio 2013\Projects\Messenger\Messenger\bin\Debug\Messenger.xml
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.Resources.resources
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.vbproj.GenerateResource.Cache
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.EnterName.resources
+E:\Libraries\Documents\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.EnterName.resources
+H:\Visual Studio 2013\Projects\Messenger\Messenger\obj\Debug\Messenger.Connect.resources
+C:\Users\Mimbles\Desktop\Messenger\Messenger\bin\Debug\Messenger.exe.config
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.exe
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.xml
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.pdb
+C:\Users\Mimbles\Desktop\Messenger\Messenger\bin\Debug\Messenger.exe
+C:\Users\Mimbles\Desktop\Messenger\Messenger\bin\Debug\Messenger.pdb
+C:\Users\Mimbles\Desktop\Messenger\Messenger\bin\Debug\Messenger.xml
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.Connect.resources
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.EnterName.resources
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.Resources.resources
+C:\Users\Mimbles\Desktop\Messenger\Messenger\obj\Debug\Messenger.vbproj.GenerateResource.Cache
+E:\Messenger\Messenger\bin\Debug\Messenger.exe.config
+E:\Messenger\Messenger\obj\Debug\Messenger.exe
+E:\Messenger\Messenger\obj\Debug\Messenger.xml
+E:\Messenger\Messenger\obj\Debug\Messenger.pdb
+E:\Messenger\Messenger\bin\Debug\Messenger.exe
+E:\Messenger\Messenger\bin\Debug\Messenger.pdb
+E:\Messenger\Messenger\bin\Debug\Messenger.xml
+E:\Messenger\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+E:\Messenger\Messenger\obj\Debug\Messenger.Connect.resources
+E:\Messenger\Messenger\obj\Debug\Messenger.EnterName.resources
+E:\Messenger\Messenger\obj\Debug\Messenger.Resources.resources
+E:\Messenger\Messenger\obj\Debug\Messenger.vbproj.GenerateResource.Cache
+D:\Messenger\Messenger\bin\Debug\Messenger.exe.config
+D:\Messenger\Messenger\obj\Debug\Messenger.exe
+D:\Messenger\Messenger\obj\Debug\Messenger.xml
+D:\Messenger\Messenger\obj\Debug\Messenger.pdb
+D:\Messenger\Messenger\bin\Debug\Messenger.exe
+D:\Messenger\Messenger\bin\Debug\Messenger.pdb
+D:\Messenger\Messenger\bin\Debug\Messenger.xml
+D:\Messenger\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+D:\Messenger\Messenger\obj\Debug\Messenger.Connect.resources
+D:\Messenger\Messenger\obj\Debug\Messenger.EnterName.resources
+D:\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+D:\Messenger\Messenger\obj\Debug\Messenger.Resources.resources
+D:\Messenger\Messenger\obj\Debug\Messenger.vbproj.GenerateResource.Cache
+E:\Messenger\Messenger\obj\Debug\Messenger.Messanger.resources
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\bin\Debug\Messenger.exe.config
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.exe
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.xml
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.pdb
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\bin\Debug\Messenger.exe
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\bin\Debug\Messenger.pdb
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\bin\Debug\Messenger.xml
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.vbprojResolveAssemblyReference.cache
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.Connect.resources
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.EnterName.resources
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.Messanger.resources
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.Resources.resources
+C:\Users\Mimbles\Desktop\Messenger(uptodate)\Messenger\obj\Debug\Messenger.vbproj.GenerateResource.Cache
